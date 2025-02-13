@@ -1,6 +1,6 @@
 # 植物大战僵尸杂交版修改器
 
-<div style="text-align: center;">
+<div align="center">
         <img src="./img/Tauri.png" alt="Tauri">
         <img src="./img/CheatEngine.png" alt="CheatEngine" style="margin-left:10px;margin-right:10px">
         <img src="./img/Rust.png" alt="Rust" >
