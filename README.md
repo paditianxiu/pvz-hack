@@ -1,7 +1,20 @@
-# Tauri + React
+# 植物大战僵尸杂交版修改器
 
-This template should help get you started developing with Tauri and React in Vite.
+<div class="image-container">
+        <img src="./img/Tauri.png" alt="Tauri" class="top">
+        <img src="./img/CheatEngine.png" alt="CheatEngine" class="top">
+        <img src="./img/Rust.png" alt="Rust" class="top">
+</div>
 
-## Recommended IDE Setup
+<style>
+.image-container {
+    text-align: center;
+}
+.top{
+  margin: 10px;
+}
+</style>
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## 简介
+本项目是植物大战僵尸杂交版的修改器，用于修改游戏中的一些参数，以达到更好的游戏体验。
+![Cheat-Img](./img/menu.png)
